@@ -191,26 +191,6 @@ def CouponCorrection(x_og,y_og):
 	# input_filename = [addpath+i +'.'+ input_format for i in input_filenames]
 	# return (CouponSpecs,addpath,input_filename,input_filenames)
 
-
-
-############################################################
-#                                                          #
-# Import modules used for in this script                   #
-#                                                          #
-############################################################
-import time
-start_time = time.time()
-import sys
-from pylab import *
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
-import math
-import os 
-import re
-from sys import argv
-from pandas import ExcelWriter
-
 # import MatsFunc #this is the file with functions created
 ############################################################
 #                                                          #
