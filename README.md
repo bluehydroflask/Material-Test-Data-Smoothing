@@ -22,7 +22,7 @@ portion. That is why Youngs Modulus is found using the begining portion of the s
 - os 
 - re
 - sys
-- ExcelWriter
+- ExcelWriter (`pip install openpyxl`)
 
 ## How to run code:
 1. First, make sure that the excel file is filled out with test name and other geometric properties needed.
