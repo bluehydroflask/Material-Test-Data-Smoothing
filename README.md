@@ -11,6 +11,19 @@ portion. That is why Youngs Modulus is found using the begining portion of the s
 - excel file with test speciem paramters
 - folder with test data
 
+## Modules used:
+- time
+- sys
+- pylab 
+- matplotlib.pyplot
+- pandas
+- numpy
+- math
+- os 
+- re
+- sys
+- ExcelWriter
+
 ## How to run code:
 1. First, make sure that the excel file is filled out with test name and other geometric properties needed.
 2. Inside python 3 environmen, run the following sample command:
