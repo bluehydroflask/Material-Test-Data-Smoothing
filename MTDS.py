@@ -191,7 +191,7 @@ def CouponCorrection(x_og,y_og):
 	# input_filename = [addpath+i +'.'+ input_format for i in input_filenames]
 	# return (CouponSpecs,addpath,input_filename,input_filenames)
 
-# import MatsFunc #this is the file with functions created
+
 ############################################################
 #                                                          #
 # Main script                                              #
