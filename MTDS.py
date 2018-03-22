@@ -15,7 +15,10 @@ import os
 import re
 from sys import argv
 from pandas import ExcelWriter
-
+#warning error shows up when runnning in windows OS following done to suppress
+import warnings
+import matplotlib.cbook
+warnings.filterwarnings("ignore",category=matplotlib.cbook.mplDeprecation)
 ############################################################
 #                                                          #
 # Functions for Data input check                           #
